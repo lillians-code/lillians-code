@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @lillians-code
+- 😢 This is my new Github account - I got locked out of my old one which is [@cyan-sunset](https://github.com/cyan-sunset)
+- 🕸️ This is my website [lillian-zhang.com](https://www.lillian-zhang.com/)
 - 👀 I’m interested in all things data science, analytics, and machine learning, and just recently game development!
 - 🌱 I’m currently learning pottery, neural networks, recommendation engines, and game development.
 - 💞️ I’m looking to collaborate on anything that sounds interesting!
